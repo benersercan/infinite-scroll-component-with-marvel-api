@@ -1,15 +1,11 @@
-# Simple Marvel API List & Details view app for another company interview
-
+# Infinite scroll made with custom hook Intersection Observe
+# Simple Marvel API List & Details view app
 List characters with name and image
 List have to 30 limits and it has to be infinite scroll
 
 Show characters details (name, image, description)
 List comics where the character appears
 Comics have to limit with 10 and ordered by publish date desc
-
-# Infinite scroll made with custom hook Intersection Observe
-
-## I hope it saves you time :)
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
